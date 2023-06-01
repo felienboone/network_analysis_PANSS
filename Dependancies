@@ -1,0 +1,24 @@
+# network_analysis_PANSS
+
+The following R packages are required in order to run the code. All packages can easily be installed using R studio itself: 
+
+dplyr
+qgraph
+bootnet
+mgm
+skimr
+tidyr
+reshape
+ggplot2
+mgm
+optmatch
+EstimateGroupNetwork
+MatchIt
+corrplot
+networktools
+readxl
+qgraph
+EGAnet
+huge
+networktools
+bootnet
